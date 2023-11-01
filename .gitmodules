@@ -1,0 +1,3 @@
+[submodule "Source/Resources"]
+	path = Source/Resources
+	url = https://gitlab.com/Duy-Thanh/Resources.git
